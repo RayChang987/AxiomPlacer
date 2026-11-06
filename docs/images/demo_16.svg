@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174.72" height="1004.00" viewBox="0 0 174.72 1004.00" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="100%" height="100%" rx="14" fill="#0f1419"/>
+<text x="24.00" y="34" fill="#e6edf3" font-size="18" font-weight="600">AxiomPlacer · demo_16</text>
+<text x="150.72" y="34" fill="#8b98a5" font-size="13" text-anchor="end">16 blocks · 1 sym groups · area 68208 · util 98.1%</text>
+<rect x="24.00" y="80.00" width="126.72" height="900.00" fill="#151b23" stroke="#30363d" stroke-dasharray="4 4"/>
+<rect x="24.00" y="933.45" width="78.88" height="46.55" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m20 (0, 0) 61x36 rotated</title></rect>
+<text x="63.44" y="960.92" font-size="12.00" fill="#adbac7" text-anchor="middle">m20</text>
+<rect x="24.00" y="902.41" width="111.21" height="31.03" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m21 (0, 36) 86x24 rotated</title></rect>
+<text x="79.60" y="922.13" font-size="12.00" fill="#adbac7" text-anchor="middle">m21</text>
+<rect x="24.00" y="111.03" width="111.21" height="31.03" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m22 (0, 648) 86x24 rotated</title></rect>
+<text x="79.60" y="130.75" font-size="12.00" fill="#adbac7" text-anchor="middle">m22</text>
+<rect x="24.00" y="173.10" width="111.21" height="143.53" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m23 (0, 513) 86x111 rotated</title></rect>
+<text x="79.60" y="249.07" font-size="12.00" fill="#0b0f14" text-anchor="middle">m23</text>
+<rect x="135.21" y="94.22" width="15.52" height="428.02" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m24 (86, 354) 12x331</title></rect>
+<text x="142.97" y="311.15" font-size="8.34" fill="#0b0f14" text-anchor="middle">m24</text>
+<rect x="135.21" y="522.24" width="15.52" height="428.02" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m25 (86, 23) 12x331</title></rect>
+<text x="142.97" y="739.17" font-size="8.34" fill="#0b0f14" text-anchor="middle">m25</text>
+<rect x="24.00" y="727.84" width="111.21" height="143.53" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m26 (0, 84) 86x111 rotated</title></rect>
+<text x="79.60" y="803.81" font-size="12.00" fill="#0b0f14" text-anchor="middle">m26</text>
+<rect x="24.00" y="347.67" width="111.21" height="143.53" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m27 (0, 378) 86x111 rotated</title></rect>
+<text x="79.60" y="423.64" font-size="12.00" fill="#0b0f14" text-anchor="middle">m27</text>
+<rect x="24.00" y="553.28" width="111.21" height="143.53" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m28 (0, 219) 86x111 rotated</title></rect>
+<text x="79.60" y="629.24" font-size="12.00" fill="#0b0f14" text-anchor="middle">m28</text>
+<rect x="24.00" y="142.07" width="111.21" height="31.03" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m29 (0, 624) 86x24 rotated</title></rect>
+<text x="79.60" y="161.79" font-size="12.00" fill="#0b0f14" text-anchor="middle">m29</text>
+<rect x="24.00" y="491.21" width="111.21" height="31.03" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m30 (0, 354) 86x24 rotated</title></rect>
+<text x="79.60" y="510.92" font-size="12.00" fill="#0b0f14" text-anchor="middle">m30</text>
+<rect x="24.00" y="316.64" width="111.21" height="31.03" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m31 (0, 489) 86x24 rotated</title></rect>
+<text x="79.60" y="336.36" font-size="12.00" fill="#0b0f14" text-anchor="middle">m31</text>
+<rect x="24.00" y="696.81" width="111.21" height="31.03" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m32 (0, 195) 86x24 rotated</title></rect>
+<text x="79.60" y="716.53" font-size="12.00" fill="#0b0f14" text-anchor="middle">m32</text>
+<rect x="24.00" y="522.24" width="111.21" height="31.03" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m33 (0, 330) 86x24 rotated</title></rect>
+<text x="79.60" y="541.96" font-size="12.00" fill="#0b0f14" text-anchor="middle">m33</text>
+<rect x="24.00" y="871.38" width="111.21" height="31.03" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m34 (0, 60) 86x24 rotated</title></rect>
+<text x="79.60" y="891.10" font-size="12.00" fill="#0b0f14" text-anchor="middle">m34</text>
+<rect x="24.00" y="80.00" width="111.21" height="31.03" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m35 (0, 672) 86x24 rotated</title></rect>
+<text x="79.60" y="99.72" font-size="12.00" fill="#adbac7" text-anchor="middle">m35</text>
+<line x1="18.00" y1="522.24" x2="156.72" y2="522.24" stroke="#a9c6e8" stroke-width="1.6" stroke-dasharray="6 4"/>
+</svg>

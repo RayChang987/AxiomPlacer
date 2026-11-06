@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build-test:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure
+        run: cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
+      - name: Build
+        run: cmake --build build -j 4
+      - name: Test
+        run: cd build && ctest --output-on-failure
+      - name: Random stress instance
+        run: |
+          python3 tools/gen_bench.py --blocks 150 --groups 5 --seed 1 > r150.txt
+          ./build/axiom-placer r150.txt r150.out --iters 50000 --seed 1 --quiet
+          python3 tools/verify.py r150.txt r150.out

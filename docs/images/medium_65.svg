@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="948.00" height="851.72" viewBox="0 0 948.00 851.72" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="100%" height="100%" rx="14" fill="#0f1419"/>
+<text x="24.00" y="34" fill="#e6edf3" font-size="18" font-weight="600">AxiomPlacer · medium_65</text>
+<text x="924.00" y="34" fill="#8b98a5" font-size="13" text-anchor="end">65 blocks · 3 sym groups · area 610184 · util 96.6%</text>
+<rect x="24.00" y="80.00" width="900.00" height="747.72" fill="#151b23" stroke="#30363d" stroke-dasharray="4 4"/>
+<rect x="461.92" y="815.12" width="347.61" height="12.60" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m1 (417, 0) 331x12 rotated</title></rect>
+<text x="635.73" y="823.63" font-size="6.30" fill="#adbac7" text-anchor="middle">m1</text>
+<rect x="36.60" y="80.00" width="102.92" height="233.14" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m2 (12, 490) 98x222</title></rect>
+<text x="88.06" y="200.77" font-size="12.00" fill="#adbac7" text-anchor="middle">m2</text>
+<rect x="705.56" y="248.03" width="90.32" height="116.57" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m3 (649, 441) 86x111 rotated</title></rect>
+<text x="750.72" y="310.51" font-size="12.00" fill="#adbac7" text-anchor="middle">m3</text>
+<rect x="139.52" y="235.43" width="90.32" height="116.57" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m4 (110, 453) 86x111 rotated</title></rect>
+<text x="184.68" y="297.91" font-size="12.00" fill="#adbac7" text-anchor="middle">m4</text>
+<rect x="410.46" y="479.07" width="179.58" height="77.71" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m5 (368, 258) 171x74 rotated</title></rect>
+<text x="500.25" y="522.12" font-size="12.00" fill="#0b0f14" text-anchor="middle">m5</text>
+<rect x="255.04" y="454.91" width="77.71" height="179.58" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m6 (220, 184) 74x171</title></rect>
+<text x="293.89" y="548.90" font-size="12.00" fill="#0b0f14" text-anchor="middle">m6</text>
+<rect x="255.04" y="634.49" width="77.71" height="179.58" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m7 (220, 13) 74x171</title></rect>
+<text x="293.89" y="728.48" font-size="12.00" fill="#0b0f14" text-anchor="middle">m7</text>
+<rect x="410.46" y="712.21" width="179.58" height="77.71" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m8 (368, 36) 171x74 rotated</title></rect>
+<text x="500.25" y="755.26" font-size="12.00" fill="#0b0f14" text-anchor="middle">m8</text>
+<rect x="410.46" y="556.78" width="179.58" height="77.71" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m9 (368, 184) 171x74 rotated</title></rect>
+<text x="500.25" y="599.84" font-size="12.00" fill="#0b0f14" text-anchor="middle">m9</text>
+<rect x="332.75" y="454.91" width="77.71" height="179.58" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m10 (294, 184) 74x171</title></rect>
+<text x="371.61" y="548.90" font-size="12.00" fill="#0b0f14" text-anchor="middle">m10</text>
+<rect x="332.75" y="634.49" width="77.71" height="179.58" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m11 (294, 13) 74x171</title></rect>
+<text x="371.61" y="728.48" font-size="12.00" fill="#0b0f14" text-anchor="middle">m11</text>
+<rect x="410.46" y="634.49" width="179.58" height="77.71" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>m12 (368, 110) 171x74 rotated</title></rect>
+<text x="500.25" y="677.55" font-size="12.00" fill="#0b0f14" text-anchor="middle">m12</text>
+<rect x="242.44" y="467.51" width="12.60" height="347.61" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m13 (208, 12) 12x331</title></rect>
+<text x="248.74" y="643.69" font-size="6.78" fill="#adbac7" text-anchor="middle">m13</text>
+<rect x="229.83" y="507.42" width="12.60" height="243.64" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m14 (196, 73) 12x232</title></rect>
+<text x="236.14" y="631.61" font-size="6.78" fill="#adbac7" text-anchor="middle">m14</text>
+<rect x="24.00" y="83.15" width="12.60" height="243.64" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m15 (0, 477) 12x232</title></rect>
+<text x="30.30" y="207.34" font-size="6.78" fill="#adbac7" text-anchor="middle">m15</text>
+<rect x="680.36" y="172.42" width="115.52" height="63.01" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m16 (625, 564) 110x60 rotated</title></rect>
+<text x="738.12" y="208.12" font-size="12.00" fill="#adbac7" text-anchor="middle">m16</text>
+<rect x="341.15" y="107.30" width="90.32" height="64.06" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m17 (302, 625) 86x61 rotated</title></rect>
+<text x="386.31" y="143.53" font-size="12.00" fill="#adbac7" text-anchor="middle">m17</text>
+<rect x="590.04" y="481.17" width="90.32" height="25.20" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m18 (539, 306) 86x24 rotated</title></rect>
+<text x="635.20" y="497.97" font-size="12.00" fill="#adbac7" text-anchor="middle">m18</text>
+<rect x="229.83" y="339.39" width="90.32" height="25.20" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m19 (196, 441) 86x24 rotated</title></rect>
+<text x="274.99" y="356.20" font-size="12.00" fill="#adbac7" text-anchor="middle">m19</text>
+<rect x="886.19" y="171.37" width="37.81" height="64.06" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m20 (821, 564) 36x61</title></rect>
+<text x="905.10" y="207.60" font-size="12.00" fill="#adbac7" text-anchor="middle">m20</text>
+<rect x="680.36" y="325.74" width="25.20" height="90.32" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m21 (625, 392) 24x86</title></rect>
+<text x="692.96" y="375.10" font-size="12.00" fill="#adbac7" text-anchor="middle">m21</text>
+<rect x="590.04" y="455.96" width="90.32" height="25.20" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m22 (539, 330) 86x24 rotated</title></rect>
+<text x="635.20" y="472.76" font-size="12.00" fill="#adbac7" text-anchor="middle">m22</text>
+<rect x="139.52" y="402.40" width="90.32" height="116.57" fill="#e15759" fill-opacity="0.88" stroke="#ffaaa9" stroke-width="1"><title>m23 (110, 294) 86x111 rotated</title></rect>
+<text x="184.68" y="464.89" font-size="12.00" fill="#0b0f14" text-anchor="middle">m23</text>
+<rect x="126.92" y="313.14" width="12.60" height="347.61" fill="#e15759" fill-opacity="0.88" stroke="#ffaaa9" stroke-width="1"><title>m24 (98, 159) 12x331</title></rect>
+<text x="133.22" y="489.31" font-size="6.78" fill="#0b0f14" text-anchor="middle">m24</text>
+<rect x="114.32" y="313.14" width="12.60" height="347.61" fill="#e15759" fill-opacity="0.88" stroke="#ffaaa9" stroke-width="1"><title>m25 (86, 159) 12x331</title></rect>
+<text x="120.62" y="489.31" font-size="6.78" fill="#0b0f14" text-anchor="middle">m25</text>
+<rect x="24.00" y="402.40" width="90.32" height="116.57" fill="#e15759" fill-opacity="0.88" stroke="#ffaaa9" stroke-width="1"><title>m26 (0, 294) 86x111 rotated</title></rect>
+<text x="69.16" y="464.89" font-size="12.00" fill="#0b0f14" text-anchor="middle">m26</text>
+<rect x="139.52" y="518.97" width="90.32" height="116.57" fill="#e15759" fill-opacity="0.88" stroke="#ffaaa9" stroke-width="1"><title>m27 (110, 183) 86x111 rotated</title></rect>
+<text x="184.68" y="581.46" font-size="12.00" fill="#0b0f14" text-anchor="middle">m27</text>
+<rect x="24.00" y="518.97" width="90.32" height="116.57" fill="#e15759" fill-opacity="0.88" stroke="#ffaaa9" stroke-width="1"><title>m28 (0, 183) 86x111 rotated</title></rect>
+<text x="69.16" y="581.46" font-size="12.00" fill="#0b0f14" text-anchor="middle">m28</text>
+<rect x="139.52" y="635.54" width="90.32" height="25.20" fill="#e15759" fill-opacity="0.88" stroke="#ffaaa9" stroke-width="1"><title>m29 (110, 159) 86x24 rotated</title></rect>
+<text x="184.68" y="652.34" font-size="12.00" fill="#0b0f14" text-anchor="middle">m29</text>
+<rect x="139.52" y="377.20" width="90.32" height="25.20" fill="#e15759" fill-opacity="0.88" stroke="#ffaaa9" stroke-width="1"><title>m30 (110, 405) 86x24 rotated</title></rect>
+<text x="184.68" y="394.00" font-size="12.00" fill="#0b0f14" text-anchor="middle">m30</text>
+<rect x="126.92" y="660.75" width="90.32" height="25.20" fill="#e15759" fill-opacity="0.88" stroke="#ffaaa9" stroke-width="1"><title>m31 (98, 135) 86x24 rotated</title></rect>
+<text x="172.07" y="677.55" font-size="12.00" fill="#0b0f14" text-anchor="middle">m31</text>
+<rect x="36.60" y="660.75" width="90.32" height="25.20" fill="#e15759" fill-opacity="0.88" stroke="#ffaaa9" stroke-width="1"><title>m32 (12, 135) 86x24 rotated</title></rect>
+<text x="81.76" y="677.55" font-size="12.00" fill="#0b0f14" text-anchor="middle">m32</text>
+<rect x="24.00" y="377.20" width="90.32" height="25.20" fill="#e15759" fill-opacity="0.88" stroke="#ffaaa9" stroke-width="1"><title>m33 (0, 405) 86x24 rotated</title></rect>
+<text x="69.16" y="394.00" font-size="12.00" fill="#0b0f14" text-anchor="middle">m33</text>
+<rect x="24.00" y="635.54" width="90.32" height="25.20" fill="#e15759" fill-opacity="0.88" stroke="#ffaaa9" stroke-width="1"><title>m34 (0, 159) 86x24 rotated</title></rect>
+<text x="69.16" y="652.34" font-size="12.00" fill="#0b0f14" text-anchor="middle">m34</text>
+<rect x="139.52" y="352.00" width="90.32" height="25.20" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m35 (110, 429) 86x24 rotated</title></rect>
+<text x="184.68" y="368.80" font-size="12.00" fill="#adbac7" text-anchor="middle">m35</text>
+<rect x="590.04" y="506.37" width="333.96" height="283.55" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m36 (539, 36) 318x270 rotated</title></rect>
+<text x="757.02" y="652.34" font-size="12.00" fill="#adbac7" text-anchor="middle">m36</text>
+<rect x="341.15" y="82.10" width="90.32" height="25.20" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m37 (302, 686) 86x24 rotated</title></rect>
+<text x="386.31" y="98.90" font-size="12.00" fill="#adbac7" text-anchor="middle">m37</text>
+<rect x="809.53" y="789.92" width="64.06" height="37.81" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m38 (748, 0) 61x36 rotated</title></rect>
+<text x="841.56" y="813.02" font-size="12.00" fill="#adbac7" text-anchor="middle">m38</text>
+<rect x="164.72" y="95.75" width="176.43" height="128.12" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m39 (134, 575) 168x122 rotated</title></rect>
+<text x="252.94" y="164.01" font-size="12.00" fill="#adbac7" text-anchor="middle">m39</text>
+<rect x="680.36" y="416.06" width="25.20" height="90.32" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m40 (625, 306) 24x86</title></rect>
+<text x="692.96" y="465.41" font-size="12.00" fill="#adbac7" text-anchor="middle">m40</text>
+<rect x="204.63" y="751.06" width="37.81" height="64.06" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m41 (172, 12) 36x61</title></rect>
+<text x="223.53" y="787.29" font-size="12.00" fill="#adbac7" text-anchor="middle">m41</text>
+<rect x="795.88" y="197.62" width="64.06" height="37.81" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m42 (735, 564) 61x36 rotated</title></rect>
+<text x="827.91" y="220.72" font-size="12.00" fill="#adbac7" text-anchor="middle">m42</text>
+<rect x="705.56" y="389.80" width="90.32" height="116.57" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m43 (649, 306) 86x111 rotated</title></rect>
+<text x="750.72" y="452.29" font-size="12.00" fill="#adbac7" text-anchor="middle">m43</text>
+<rect x="24.00" y="711.16" width="90.32" height="116.57" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m44 (0, 0) 86x111 rotated</title></rect>
+<text x="69.16" y="773.64" font-size="12.00" fill="#adbac7" text-anchor="middle">m44</text>
+<rect x="806.38" y="81.05" width="116.57" height="90.32" fill="#f28e2b" fill-opacity="0.88" stroke="#ffc58a" stroke-width="1"><title>m45 (745, 625) 111x86</title></rect>
+<text x="864.67" y="130.41" font-size="12.00" fill="#0b0f14" text-anchor="middle">m45</text>
+<rect x="548.04" y="81.05" width="116.57" height="90.32" fill="#f28e2b" fill-opacity="0.88" stroke="#ffc58a" stroke-width="1"><title>m46 (499, 625) 111x86</title></rect>
+<text x="606.32" y="130.41" font-size="12.00" fill="#0b0f14" text-anchor="middle">m46</text>
+<rect x="664.61" y="81.05" width="25.20" height="90.32" fill="#f28e2b" fill-opacity="0.88" stroke="#ffc58a" stroke-width="1"><title>m47 (610, 625) 24x86</title></rect>
+<text x="677.21" y="130.41" font-size="12.00" fill="#0b0f14" text-anchor="middle">m47</text>
+<rect x="689.81" y="81.05" width="116.57" height="90.32" fill="#f28e2b" fill-opacity="0.88" stroke="#ffc58a" stroke-width="1"><title>m48 (634, 625) 111x86</title></rect>
+<text x="748.10" y="130.41" font-size="12.00" fill="#0b0f14" text-anchor="middle">m48</text>
+<rect x="431.47" y="81.05" width="116.57" height="90.32" fill="#f28e2b" fill-opacity="0.88" stroke="#ffc58a" stroke-width="1"><title>m49 (388, 625) 111x86</title></rect>
+<text x="489.75" y="130.41" font-size="12.00" fill="#0b0f14" text-anchor="middle">m49</text>
+<rect x="229.83" y="314.19" width="90.32" height="25.20" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m50 (196, 465) 86x24 rotated</title></rect>
+<text x="274.99" y="330.99" font-size="12.00" fill="#adbac7" text-anchor="middle">m50</text>
+<rect x="24.00" y="352.00" width="90.32" height="25.20" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m51 (0, 429) 86x24 rotated</title></rect>
+<text x="69.16" y="368.80" font-size="12.00" fill="#adbac7" text-anchor="middle">m51</text>
+<rect x="229.83" y="364.60" width="116.57" height="90.32" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m52 (196, 355) 111x86</title></rect>
+<text x="288.12" y="413.95" font-size="12.00" fill="#adbac7" text-anchor="middle">m52</text>
+<rect x="705.56" y="364.60" width="90.32" height="25.20" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m53 (649, 417) 86x24 rotated</title></rect>
+<text x="750.72" y="381.40" font-size="12.00" fill="#adbac7" text-anchor="middle">m53</text>
+<rect x="139.52" y="145.11" width="25.20" height="90.32" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m54 (110, 564) 24x86</title></rect>
+<text x="152.12" y="194.47" font-size="12.00" fill="#adbac7" text-anchor="middle">m54</text>
+<rect x="24.00" y="685.95" width="90.32" height="25.20" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m55 (0, 111) 86x24 rotated</title></rect>
+<text x="69.16" y="702.75" font-size="12.00" fill="#adbac7" text-anchor="middle">m55</text>
+<rect x="24.00" y="326.79" width="90.32" height="25.20" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m56 (0, 453) 86x24 rotated</title></rect>
+<text x="69.16" y="343.59" font-size="12.00" fill="#adbac7" text-anchor="middle">m56</text>
+<rect x="795.88" y="172.42" width="90.32" height="25.20" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m57 (735, 600) 86x24 rotated</title></rect>
+<text x="841.04" y="189.22" font-size="12.00" fill="#adbac7" text-anchor="middle">m57</text>
+<rect x="229.83" y="223.87" width="116.57" height="90.32" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m58 (196, 489) 111x86</title></rect>
+<text x="288.12" y="273.23" font-size="12.00" fill="#adbac7" text-anchor="middle">m58</text>
+<rect x="114.32" y="698.55" width="90.32" height="116.57" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m59 (86, 12) 86x111 rotated</title></rect>
+<text x="159.47" y="761.04" font-size="12.00" fill="#adbac7" text-anchor="middle">m59</text>
+<rect x="680.36" y="235.43" width="25.20" height="90.32" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m60 (625, 478) 24x86</title></rect>
+<text x="692.96" y="284.78" font-size="12.00" fill="#adbac7" text-anchor="middle">m60</text>
+<rect x="114.32" y="815.12" width="347.61" height="12.60" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m61 (86, 0) 331x12 rotated</title></rect>
+<text x="288.12" y="823.63" font-size="6.30" fill="#adbac7" text-anchor="middle">m61</text>
+<rect x="461.92" y="802.52" width="347.61" height="12.60" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m62 (417, 12) 331x12 rotated</title></rect>
+<text x="635.73" y="811.03" font-size="6.30" fill="#adbac7" text-anchor="middle">m62</text>
+<rect x="461.92" y="789.92" width="347.61" height="12.60" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m63 (417, 24) 331x12 rotated</title></rect>
+<text x="635.73" y="798.42" font-size="6.30" fill="#adbac7" text-anchor="middle">m63</text>
+<rect x="346.40" y="171.37" width="333.96" height="283.55" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m64 (307, 355) 318x270 rotated</title></rect>
+<text x="513.38" y="317.34" font-size="12.00" fill="#adbac7" text-anchor="middle">m64</text>
+<rect x="795.88" y="235.43" width="128.12" height="270.95" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>m65 (735, 306) 122x258</title></rect>
+<text x="859.94" y="375.10" font-size="12.00" fill="#adbac7" text-anchor="middle">m65</text>
+<line x1="249.04" y1="634.49" x2="596.04" y2="634.49" stroke="#a9c6e8" stroke-width="1.6" stroke-dasharray="6 4"/>
+<line x1="677.21" y1="75.05" x2="677.21" y2="177.37" stroke="#ffc58a" stroke-width="1.6" stroke-dasharray="6 4"/>
+<line x1="126.92" y1="307.14" x2="126.92" y2="691.95" stroke="#ffaaa9" stroke-width="1.6" stroke-dasharray="6 4"/>
+</svg>

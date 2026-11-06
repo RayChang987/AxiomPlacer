@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="948.00" height="168.37" viewBox="0 0 948.00 168.37" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="100%" height="100%" rx="14" fill="#0f1419"/>
+<text x="24.00" y="34" fill="#e6edf3" font-size="18" font-weight="600">AxiomPlacer · small_09</text>
+<text x="924.00" y="34" fill="#8b98a5" font-size="13" text-anchor="end">9 blocks · 1 sym groups · area 46924848 · util 99.2%</text>
+<rect x="24.00" y="80.00" width="900.00" height="64.37" fill="#151b23" stroke="#30363d" stroke-dasharray="4 4"/>
+<rect x="803.41" y="80.21" width="110.54" height="64.16" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>cc_11 (22182, 0) 3146x1826</title></rect>
+<text x="858.68" y="116.49" font-size="12.00" fill="#0b0f14" text-anchor="middle">cc_11</text>
+<rect x="24.00" y="80.21" width="110.54" height="64.16" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>cc_12 (0, 0) 3146x1826</title></rect>
+<text x="79.27" y="116.49" font-size="12.00" fill="#0b0f14" text-anchor="middle">cc_12</text>
+<rect x="580.92" y="80.21" width="110.54" height="64.16" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>cc_13 (15850, 0) 3146x1826</title></rect>
+<text x="636.19" y="116.49" font-size="12.00" fill="#0b0f14" text-anchor="middle">cc_13</text>
+<rect x="246.49" y="80.21" width="110.54" height="64.16" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>cc_14 (6332, 0) 3146x1826</title></rect>
+<text x="301.76" y="116.49" font-size="12.00" fill="#0b0f14" text-anchor="middle">cc_14</text>
+<rect x="468.98" y="80.00" width="111.95" height="64.37" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>cc_21 (12664, 0) 3186x1832</title></rect>
+<text x="524.95" y="116.39" font-size="12.00" fill="#0b0f14" text-anchor="middle">cc_21</text>
+<rect x="357.03" y="80.00" width="111.95" height="64.37" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>cc_22 (9478, 0) 3186x1832</title></rect>
+<text x="413.00" y="116.39" font-size="12.00" fill="#0b0f14" text-anchor="middle">cc_22</text>
+<rect x="691.46" y="80.00" width="111.95" height="64.37" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>cc_23 (18996, 0) 3186x1832</title></rect>
+<text x="747.44" y="116.39" font-size="12.00" fill="#0b0f14" text-anchor="middle">cc_23</text>
+<rect x="134.54" y="80.00" width="111.95" height="64.37" fill="#4e79a7" fill-opacity="0.88" stroke="#a9c6e8" stroke-width="1"><title>cc_24 (3146, 0) 3186x1832</title></rect>
+<text x="190.51" y="116.39" font-size="12.00" fill="#0b0f14" text-anchor="middle">cc_24</text>
+<rect x="913.95" y="115.35" width="10.05" height="29.02" fill="#2b3440" fill-opacity="1.00" stroke="#57606a" stroke-width="1"><title>clk (25328, 0) 286x826 rotated</title></rect>
+<line x1="468.98" y1="74.00" x2="468.98" y2="150.37" stroke="#a9c6e8" stroke-width="1.6" stroke-dasharray="6 4"/>
+</svg>
