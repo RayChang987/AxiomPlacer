@@ -1,0 +1,140 @@
+NumHardBlocks 110
+HardBlock m1 93 63
+HardBlock m2 93 63
+HardBlock m3 93 63
+HardBlock m4 93 63
+HardBlock m5 93 63
+HardBlock m6 93 63
+HardBlock m7 93 63
+HardBlock m8 93 63
+HardBlock m9 93 63
+HardBlock m10 93 63
+HardBlock m11 93 63
+HardBlock m12 93 63
+HardBlock m13 93 63
+HardBlock m14 93 63
+HardBlock m15 93 63
+HardBlock m16 93 63
+HardBlock m17 60 101
+HardBlock m18 60 101
+HardBlock m19 60 101
+HardBlock m20 60 101
+HardBlock m21 60 101
+HardBlock m22 60 101
+HardBlock m23 18 86
+HardBlock m24 18 86
+HardBlock m25 18 86
+HardBlock m26 48 194
+HardBlock m27 165 150
+HardBlock m28 18 86
+HardBlock m29 18 86
+HardBlock m30 204 184
+HardBlock m31 93 63
+HardBlock m32 93 63
+HardBlock m33 93 63
+HardBlock m34 93 63
+HardBlock m35 93 63
+HardBlock m36 93 63
+HardBlock m37 48 33
+HardBlock m38 48 33
+HardBlock m39 48 33
+HardBlock m40 48 33
+HardBlock m41 34 71
+HardBlock m42 34 71
+HardBlock m43 34 71
+HardBlock m44 34 71
+HardBlock m45 34 71
+HardBlock m46 34 71
+HardBlock m47 48 66
+HardBlock m48 48 66
+HardBlock m49 10 38
+HardBlock m50 93 63
+HardBlock m51 93 63
+HardBlock m52 93 63
+HardBlock m53 93 63
+HardBlock m54 93 63
+HardBlock m55 93 63
+HardBlock m56 93 63
+HardBlock m57 93 63
+HardBlock m58 93 63
+HardBlock m59 93 63
+HardBlock m60 93 63
+HardBlock m61 93 63
+HardBlock m62 48 66
+HardBlock m63 48 66
+HardBlock m64 48 66
+HardBlock m65 93 63
+HardBlock m66 48 33
+HardBlock m67 48 33
+HardBlock m68 48 194
+HardBlock m69 89 96
+HardBlock m70 34 71
+HardBlock m71 34 71
+HardBlock m72 34 71
+HardBlock m73 34 71
+HardBlock m74 93 63
+HardBlock m75 93 63
+HardBlock m76 34 71
+HardBlock m77 93 134
+HardBlock m78 93 134
+HardBlock m79 93 63
+HardBlock m80 34 71
+HardBlock m81 34 71
+HardBlock m82 34 71
+HardBlock m83 34 71
+HardBlock m84 34 71
+HardBlock m85 34 71
+HardBlock m86 48 33
+HardBlock m87 48 33
+HardBlock m88 93 63
+HardBlock m89 93 63
+HardBlock m90 93 63
+HardBlock m91 48 66
+HardBlock m92 18 86
+HardBlock m93 18 86
+HardBlock m94 18 86
+HardBlock m95 18 86
+HardBlock m96 18 86
+HardBlock m97 18 86
+HardBlock m98 108 96
+HardBlock m99 89 66
+HardBlock m100 34 71
+HardBlock m101 8 75
+HardBlock m102 8 142
+HardBlock m103 8 170
+HardBlock m104 8 142
+HardBlock m105 8 142
+HardBlock m106 8 142
+HardBlock m107 8 142
+HardBlock m108 8 142
+HardBlock m109 8 142
+HardBlock m110 120 651
+
+NumSymGroups 5
+SymGroup sg0 8
+SymPair m5 m8
+SymPair m6 m7
+SymPair m1 m4
+SymPair m14 m15
+SymPair m13 m16
+SymPair m10 m11
+SymPair m2 m3
+SymPair m9 m12
+SymGroup sg1 3
+SymPair m21 m22
+SymPair m18 m19
+SymPair m17 m20
+SymGroup sg2 3
+SymPair m41 m42
+SymPair m43 m44
+SymPair m45 m46
+SymGroup sg3 6
+SymPair m55 m56
+SymPair m50 m53
+SymPair m58 m61
+SymPair m51 m52
+SymPair m59 m60
+SymPair m54 m57
+SymGroup sg4 2
+SymPair m70 m71
+SymPair m72 m73

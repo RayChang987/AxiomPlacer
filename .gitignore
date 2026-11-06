@@ -1,0 +1,13 @@
+build/
+build-*/
+cmake-build-*/
+runs/
+*.out
+*.jsonl
+!benchmarks/*.txt
+.vscode/
+.idea/
+.cache/
+compile_commands.json
+__pycache__/
+.DS_Store

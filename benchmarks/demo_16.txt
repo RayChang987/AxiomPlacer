@@ -1,0 +1,28 @@
+NumHardBlocks 16
+
+HardBlock m20 36 61
+HardBlock m21 24 86
+HardBlock m22 24 86
+HardBlock m23 111 86
+HardBlock m24 12 331
+HardBlock m25 12 331
+HardBlock m26 111 86
+HardBlock m27 111 86
+HardBlock m28 111 86
+HardBlock m29 24 86
+HardBlock m30 24 86
+HardBlock m31 24 86
+HardBlock m32 24 86
+HardBlock m33 24 86
+HardBlock m34 24 86
+HardBlock m35 24 86
+
+
+NumSymGroups 1
+SymGroup sg2 6
+SymPair m27 m28
+SymPair m23 m26
+SymPair m31 m32
+SymPair m30 m33
+SymPair m29 m34
+SymPair m24 m25
