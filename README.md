@@ -77,7 +77,7 @@ The input and output formats are specified in
 
 ## Visualising the optimisation
 
-<img src="docs/images/viewer.png" alt="AxiomPlacer viewer" width="100%">
+<img src="docs/images/viewer.gif" alt="The AxiomPlacer viewer replaying a large_110 run" width="100%">
 
 **Follow a run live.** The script starts a local server, prints the viewer URL
 and streams the run into it:
@@ -104,6 +104,13 @@ turns a trace into a GIF, a PNG or a convergence plot:
 
 ```bash
 python3 tools/render.py run.jsonl --gif run.gif --png final.png --curve curve.png
+```
+
+`tools/record_viewer.mjs` records the web viewer replaying a trace as a GIF
+(the animation above). It needs Node ≥ 22, Firefox and ffmpeg:
+
+```bash
+node tools/record_viewer.mjs run.jsonl viewer.gif --frames 60 --width 1280
 ```
 
 ## Results
@@ -159,7 +166,7 @@ src/             library implementation
 apps/            command-line front end (axiom-placer)
 tests/           unit tests (no external framework)
 viewer/          single-file web GUI for traces
-tools/           verify.py · gen_bench.py · render.py · live.sh
+tools/           verify.py · gen_bench.py · render.py · record_viewer.mjs · live.sh
 benchmarks/      sample instances (9–110 blocks)
 docs/            file formats, algorithm notes, images
 ```

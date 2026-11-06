@@ -128,14 +128,23 @@ def headline(fig, problem, frame):
              color=MUTED, fontsize=9, ha="right")
 
 
-def figure():
-    fig = plt.figure(figsize=(10, 5.4), dpi=110, facecolor=BG)
+def figure(dpi=110):
+    fig = plt.figure(figsize=(10, 5.4), dpi=dpi, facecolor=BG)
     gs = fig.add_gridspec(1, 2, width_ratios=[1.35, 1], left=0.02, right=0.97, bottom=0.11, top=0.9, wspace=0.12)
     return fig, fig.add_subplot(gs[0]), fig.add_subplot(gs[1])
 
 
-def extent_of(frames):
-    return max(f["w"] for f in frames), max(f["h"] for f in frames)
+def extents_from(frames):
+    """Per frame, the largest outline from that frame onwards.
+
+    The view zooms in as the layout shrinks and never has to zoom out again,
+    so the final placement fills the panel instead of the first, much larger one.
+    """
+    out, w, h = [], 0, 0
+    for f in reversed(frames):
+        w, h = max(w, f["w"]), max(h, f["h"])
+        out.append((w, h))
+    return out[::-1]
 
 
 def main():
@@ -146,11 +155,12 @@ def main():
     ap.add_argument("--curve")
     ap.add_argument("--frames", type=int, default=90, help="max frames in the GIF")
     ap.add_argument("--fps", type=int, default=12)
+    ap.add_argument("--dpi", type=int, default=160, help="resolution of PNG and GIF output")
     args = ap.parse_args()
     problem, frames = load(args.trace)
 
     if args.png:
-        fig, a1, a2 = figure()
+        fig, a1, a2 = figure(args.dpi)
         final = frames[-1]
         draw_placement(a1, problem, final, (final["w"], final["h"]))
         draw_curve(a2, frames)
@@ -171,12 +181,12 @@ def main():
         k = min(args.frames, n)
         idx = sorted({min(n - 1, int(round((i / max(k - 1, 1)) ** 1.6 * (n - 1)))) for i in range(k)})
         idx += [n - 1] * (args.fps * 2)  # hold the final result
-        ext = extent_of(frames)
-        fig, a1, a2 = figure()
+        ext = extents_from(frames)
+        fig, a1, a2 = figure(args.dpi)
 
         def update(j):
             f = frames[idx[j]]
-            draw_placement(a1, problem, f, ext, labels=False)
+            draw_placement(a1, problem, f, ext[idx[j]], labels=False)
             draw_curve(a2, frames, idx[j])
             headline(fig, problem, f)
 
